@@ -10,6 +10,7 @@ __pycache__/
 # Data and artifacts (too big for GitHub)
 data/
 artifacts/
+.venv/
 
 # Logs
 *.log
